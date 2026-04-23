@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.2](https://github.com/EveryInc/compound-engineering-plugin/compare/cli-v3.0.1...cli-v3.0.2) (2026-04-23)
+
+
+### Bug Fixes
+
+* **ce-update:** compare against main plugin.json, not release tags ([#660](https://github.com/EveryInc/compound-engineering-plugin/issues/660)) ([351d12e](https://github.com/EveryInc/compound-engineering-plugin/commit/351d12ec5b795bff4c5e633e9a64644f045340c6))
+
 ## [3.0.1](https://github.com/EveryInc/compound-engineering-plugin/compare/cli-v3.0.0...cli-v3.0.1) (2026-04-23)
 
 

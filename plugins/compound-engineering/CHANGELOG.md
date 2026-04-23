@@ -9,6 +9,13 @@ All notable changes to the compound-engineering plugin will be documented in thi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.2](https://github.com/EveryInc/compound-engineering-plugin/compare/compound-engineering-v3.0.1...compound-engineering-v3.0.2) (2026-04-23)
+
+
+### Bug Fixes
+
+* **ce-update:** compare against main plugin.json, not release tags ([#660](https://github.com/EveryInc/compound-engineering-plugin/issues/660)) ([351d12e](https://github.com/EveryInc/compound-engineering-plugin/commit/351d12ec5b795bff4c5e633e9a64644f045340c6))
+
 ## [3.0.1](https://github.com/EveryInc/compound-engineering-plugin/compare/compound-engineering-v3.0.0...compound-engineering-v3.0.1) (2026-04-23)
 
 
