@@ -1,4 +1,5 @@
 ---
+package: compound-engineering
 name: ce-commit
 description: "Create a git commit with a clear, value-communicating message. Use when the user asks to commit/save staged or unstaged changes with a repo-appropriate message."
 aliases: commit, save, stage-commit, compound-engineering.ce-commit
