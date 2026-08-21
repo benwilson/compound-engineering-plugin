@@ -13,6 +13,11 @@
       "./skills"
     ]
   },
+  "pi-subagents": {
+    "agents": [
+      "./.agents/agents"
+    ]
+  },
   "homepage": "https://github.com/EveryInc/compound-engineering-plugin",
   "repository": "https://github.com/EveryInc/compound-engineering-plugin",
   "scripts": {
