@@ -1,7 +1,7 @@
 ---
 name: ce-babysit-pr
 description: "Babysit an open GitHub PR until merge-ready. Use when asked to watch a PR over time — not for one-shot comment resolution or one CI failure. GitHub (incl. Enterprise) only."
-aliases: babysit, watch-pr, pr-monitor
+aliases: babysit, watch-pr, pr-monitor, compound-engineering.ce-babysit-pr
 thinking: low
 systemPromptMode: replace
 inheritProjectContext: true

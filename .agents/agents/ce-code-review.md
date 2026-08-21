@@ -1,7 +1,7 @@
 ---
 name: ce-code-review
 description: "Structured code review for bugs, regressions, tests, and standards. Use before PRs or when asked to review code. Use when the user asks to apply this review's findings locally. Not for resolving feedback already left on a PR; that is ce-resolve-pr-feedback."
-aliases: review, code-review
+aliases: review, code-review, compound-engineering.ce-code-review
 thinking: high
 systemPromptMode: replace
 inheritProjectContext: true

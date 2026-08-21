@@ -1,7 +1,7 @@
 ---
 name: ce-plan
 description: "Create structured plans for multi-step work, including software and non-software tasks. Use when asked to plan, break down implementation, plan from requirements, or deepen an existing plan; prefer ce-brainstorm for exploratory framing."
-aliases: plan, technical-plan
+aliases: plan, technical-plan, compound-engineering.ce-plan
 thinking: high
 systemPromptMode: replace
 inheritProjectContext: true

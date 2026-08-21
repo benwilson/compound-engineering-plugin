@@ -1,7 +1,7 @@
 ---
 name: ce-commit-push-pr
 description: "Commit, push, and open a PR. Use when asked to ship/open a PR, or for PR-description-only flows like writing, rewriting, or describing a PR body."
-aliases: ship, open-pr, create-pr
+aliases: ship, open-pr, create-pr, compound-engineering.ce-commit-push-pr
 thinking: low
 systemPromptMode: replace
 inheritProjectContext: true

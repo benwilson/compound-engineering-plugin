@@ -1,7 +1,7 @@
 ---
 name: ce-work
 description: "Execute a plan or concrete work prompt end-to-end. Use when implementing from a plan document, a spec path, or a clear build request; use ce-debug for open-ended bugs. Use when an outer orchestrator needs implementation and local verification only, without the shipping tail."
-aliases: implement, execute, work
+aliases: implement, execute, work, compound-engineering.ce-work
 thinking: high
 systemPromptMode: replace
 inheritProjectContext: true
